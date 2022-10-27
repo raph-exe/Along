@@ -29,6 +29,16 @@ Once a song ends, The search bar is unlocked for everyone and a new song can be 
 </tr>
 </table>
 
+## Setup
+To install required dependencies run the following command in your terminal
+```
+npm i
+```
+To run the project on your [localhost](http://localhost) use the following command
+```
+node index.js
+```
+The project will now be accessible at port 80 / [localhost](http://localhost)
 ## Screenshots
 ![hyWjTA9d](https://user-images.githubusercontent.com/81021823/198221259-77bf9d2a-8ede-46a0-a369-57585d964107.png)
 ![E31jZZ1L](https://user-images.githubusercontent.com/81021823/198221422-ab6e59b6-4f92-4fb0-a9c3-a2bf4d2f1fc9.png)
